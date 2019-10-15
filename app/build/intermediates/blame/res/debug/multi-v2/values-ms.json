@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Omni\\Downloads\\Compressed\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\08.2 The alarm manager\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
+            "outputFile": "C:\\Users\\nconstant\\Desktop\\8.2 The alarm manager\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Omni\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\cca4004eb6dbd6a4b4c71276c053752f\\res\\values-ms\\values-ms.xml",
+                    "source": "C:\\Users\\nconstant\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5cdb3867712b7a40749f4964394eefcf\\res\\values-ms\\values-ms.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Omni\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\2e1acd8ab8f3a610773e06f4b66e2402\\res\\values-ms\\values-ms.xml",
+                    "source": "C:\\Users\\nconstant\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\7dd481ca7a81f05b04de3a810284f3f8\\res\\values-ms\\values-ms.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
